@@ -1,0 +1,26 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'reg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/Add_Round_Key.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Add_Round_Key'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/SBox.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SBox'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/SubBytes.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SubBytes'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/ShiftRows.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ShiftRows'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/Galois_by2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Galois_by2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/GaloisFinal.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'GaloisFinal'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/MixColumns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MixColumns'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/Controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Controller'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/Key_Expansion.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Key_Expansion'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/KeyGenerator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'KeyGenerator'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/AES_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AES_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sim_1/new/AES_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AES_tb'

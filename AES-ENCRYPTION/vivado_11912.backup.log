@@ -1,0 +1,52 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon May 12 07:00:32 2025
+# Process ID         : 11912
+# Current directory  : C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent18716 C:\Users\A\OneDrive\Desktop\Anul2, semestrul 2\SCID\ProiectSCID\AES-ENCRYPTION\project_4.xpr
+# Log file           : C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/vivado.log
+# Journal file       : C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION\vivado.jou
+# Running On         : DESKTOP-EF1BR05
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+# CPU Frequency      : 1992 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8434 MB
+# Swap memory        : 10200 MB
+# Total Virtual      : 18634 MB
+# Available Virtual  : 9180 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4' since last save.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.gen/sources_1'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/reg.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/reg.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/Add_Round_Key.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/Add_Round_Key.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/SBox.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/SBox.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/SubBytes.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/SubBytes.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/ShiftRows.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/ShiftRows.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/Galois_by2.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/Galois_by2.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/GaloisFinal.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/GaloisFinal.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/MixColumns.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/MixColumns.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/Controller.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/Controller.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/Key_Expansion.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/Key_Expansion.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/KeyGenerator.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/KeyGenerator.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sources_1/new/AES_top.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sources_1/new/AES_top.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/sim_1/new/AES_tb.vhd', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/sim_1/new/AES_tb.vhd'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/utils_1/imports/synth_1/AES_top.dcp', nor could it be found using path 'C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/project_4/project_4.srcs/utils_1/imports/synth_1/AES_top.dcp'.
+WARNING: [Project 1-865] Could not find the file C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.srcs/utils_1/imports/synth_1/AES_top.dcp
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-509] GeneratedRun file for 'synth_1' not found
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2024.2/data/ip'.
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon May 12 07:01:52 2025...

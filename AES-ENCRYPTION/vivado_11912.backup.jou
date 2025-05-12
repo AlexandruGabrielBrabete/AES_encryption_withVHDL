@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon May 12 07:00:32 2025
+# Process ID         : 11912
+# Current directory  : C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent18716 C:\Users\A\OneDrive\Desktop\Anul2, semestrul 2\SCID\ProiectSCID\AES-ENCRYPTION\project_4.xpr
+# Log file           : C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/vivado.log
+# Journal file       : C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION\vivado.jou
+# Running On         : DESKTOP-EF1BR05
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+# CPU Frequency      : 1992 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8434 MB
+# Swap memory        : 10200 MB
+# Total Virtual      : 18634 MB
+# Available Virtual  : 9180 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/A/OneDrive/Desktop/Anul2, semestrul 2/SCID/ProiectSCID/AES-ENCRYPTION/project_4.xpr}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1

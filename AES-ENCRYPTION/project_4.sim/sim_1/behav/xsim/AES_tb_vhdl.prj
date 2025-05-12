@@ -1,0 +1,18 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_4.srcs/sources_1/new/reg.vhd" \
+"../../../../project_4.srcs/sources_1/new/Add_Round_Key.vhd" \
+"../../../../project_4.srcs/sources_1/new/SBox.vhd" \
+"../../../../project_4.srcs/sources_1/new/SubBytes.vhd" \
+"../../../../project_4.srcs/sources_1/new/ShiftRows.vhd" \
+"../../../../project_4.srcs/sources_1/new/Galois_by2.vhd" \
+"../../../../project_4.srcs/sources_1/new/GaloisFinal.vhd" \
+"../../../../project_4.srcs/sources_1/new/MixColumns.vhd" \
+"../../../../project_4.srcs/sources_1/new/Controller.vhd" \
+"../../../../project_4.srcs/sources_1/new/Key_Expansion.vhd" \
+"../../../../project_4.srcs/sources_1/new/KeyGenerator.vhd" \
+"../../../../project_4.srcs/sources_1/new/AES_top.vhd" \
+"../../../../project_4.srcs/sim_1/new/AES_tb.vhd" \
+
+# Do not sort compile order
+nosort

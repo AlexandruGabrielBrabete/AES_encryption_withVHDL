@@ -78,3 +78,7 @@ This project is written to be synthesizable on FPGAs. It is recommended to:
 - AES-128 is used (128-bit key, 128-bit block size)
 - For simplicity, only encryption is implemented. Decryption can be added as an extension.
 - All transformations follow NIST standard FIPS 197
+
+## License
+
+This project is provided for academic and educational purposes. Distribution and reuse allowed with proper attribution.
